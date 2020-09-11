@@ -1,0 +1,94 @@
+02:40:44,37 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+02:40:44,37 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+02:40:44,37 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+02:40:44,37 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.
+02:40:46,104 Learning INFO initialize learning
+02:41:53,287 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+02:41:53,287 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+02:41:53,287 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+02:41:53,288 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.
+02:41:55,415 Learning INFO ****************************start new section*************************************
+02:41:55,416 Learning INFO initialize learning
+02:47:16,636 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+02:47:16,637 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+02:47:16,637 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+02:47:16,637 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.
+02:47:18,9 Learning INFO ****************************start new section*************************************
+02:47:18,10 Learning INFO initialize learning 1595620038010
+02:54:11,845 parso.cache DEBUG pickle loaded: /home/minhtam/.vscode/extensions/ms-python.python-2020.7.96456/pythonFiles/lib/python/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+02:54:11,887 parso.cache DEBUG pickle loaded: /home/minhtam/.vscode/extensions/ms-python.python-2020.7.96456/pythonFiles/lib/python/jedi/third_party/typeshed/stdlib/3/sys.pyi
+02:54:16,654 parso.python.diff DEBUG diff parser start
+02:54:16,655 parso.python.diff DEBUG line_lengths old: 1; new: 1
+02:54:16,655 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:1]
+02:54:16,655 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+02:54:16,655 parso.python.diff DEBUG diff parser end
+02:54:16,720 parso.cache DEBUG pickle loaded: /home/minhtam/anaconda3/lib/python3.7/typing.py
+02:54:16,729 parso.cache DEBUG pickle loaded: /home/minhtam/.vscode/extensions/ms-python.python-2020.7.96456/pythonFiles/lib/python/jedi/third_party/typeshed/stdlib/3/typing.pyi
+02:54:44,17 parso.python.diff DEBUG diff parser start
+02:54:44,17 parso.python.diff DEBUG line_lengths old: 1; new: 1
+02:54:44,17 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:1]
+02:54:44,17 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+02:54:44,17 parso.python.diff DEBUG diff parser end
+02:54:48,789 parso.python.diff DEBUG diff parser start
+02:54:48,789 parso.python.diff DEBUG line_lengths old: 1; new: 1
+02:54:48,790 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:1]
+02:54:48,790 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+02:54:48,790 parso.python.diff DEBUG diff parser end
+02:54:59,822 parso.python.diff DEBUG diff parser start
+02:54:59,822 parso.python.diff DEBUG line_lengths old: 1; new: 1
+02:54:59,822 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:1]
+02:54:59,823 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+02:54:59,823 parso.python.diff DEBUG diff parser end
+02:55:01,459 parso.python.diff DEBUG diff parser start
+02:55:01,460 parso.python.diff DEBUG line_lengths old: 1; new: 1
+02:55:01,460 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:1]
+02:55:01,460 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+02:55:01,460 parso.python.diff DEBUG diff parser end
+02:55:05,388 parso.python.diff DEBUG diff parser start
+02:55:05,389 parso.python.diff DEBUG line_lengths old: 1; new: 3
+02:55:05,389 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:3]
+02:55:05,389 parso.python.diff DEBUG parse_part from 1 to 3 (to 2 in part parser)
+02:55:05,389 parso.python.diff DEBUG diff parser end
+02:55:10,232 parso.python.diff DEBUG diff parser start
+02:55:10,232 parso.python.diff DEBUG line_lengths old: 3; new: 3
+02:55:10,233 parso.python.diff DEBUG -> code[equal] old[1:2] new[1:2]
+02:55:10,233 parso.python.diff DEBUG copy old[1:1] new[1:1]
+02:55:10,234 parso.python.diff DEBUG parse_part from 2 to 3 (to 2 in part parser)
+02:55:10,234 parso.python.diff DEBUG -> code[replace] old[3:3] new[3:3]
+02:55:10,234 parso.python.diff DEBUG diff parser end
+02:55:13,71 parso.python.diff DEBUG diff parser start
+02:55:13,72 parso.python.diff DEBUG line_lengths old: 3; new: 4
+02:55:13,72 parso.python.diff DEBUG -> code[equal] old[1:2] new[1:2]
+02:55:13,72 parso.python.diff DEBUG copy old[1:1] new[1:1]
+02:55:13,72 parso.python.diff DEBUG parse_part from 2 to 3 (to 3 in part parser)
+02:55:13,73 parso.python.diff DEBUG -> code[replace] old[3:3] new[3:4]
+02:55:13,73 parso.python.diff DEBUG parse_part from 4 to 4 (to 3 in part parser)
+02:55:13,73 parso.python.diff DEBUG diff parser end
+02:55:15,299 parso.python.diff DEBUG diff parser start
+02:55:15,300 parso.python.diff DEBUG line_lengths old: 4; new: 4
+02:55:15,300 parso.python.diff DEBUG -> code[equal] old[1:3] new[1:3]
+02:55:15,300 parso.python.diff DEBUG copy old[1:3] new[1:3]
+02:55:15,301 parso.python.diff DEBUG -> code[replace] old[4:4] new[4:4]
+02:55:15,301 parso.python.diff DEBUG parse_part from 4 to 4 (to 3 in part parser)
+02:55:15,301 parso.python.diff DEBUG diff parser end
+02:57:58,460 parso.python.diff DEBUG diff parser start
+02:57:58,460 parso.python.diff DEBUG line_lengths old: 4; new: 1
+02:57:58,460 parso.python.diff DEBUG -> code[replace] old[1:4] new[1:1]
+02:57:58,461 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+02:57:58,462 parso.python.diff DEBUG diff parser end
+02:57:58,464 parso.python.diff DEBUG diff parser start
+02:57:58,464 parso.python.diff DEBUG line_lengths old: 16; new: 16
+02:57:58,464 parso.python.diff DEBUG -> code[equal] old[1:7] new[1:7]
+02:57:58,464 parso.python.diff DEBUG copy old[1:15] new[1:6]
+02:57:58,464 parso.python.diff DEBUG parse_part from 7 to 7 (to 7 in part parser)
+02:57:58,465 parso.python.diff DEBUG -> code[replace] old[8:8] new[8:8]
+02:57:58,466 parso.python.diff DEBUG parse_part from 8 to 11 (to 12 in part parser)
+02:57:58,466 parso.python.diff DEBUG -> code[equal] old[9:12] new[9:12]
+02:57:58,467 parso.python.diff DEBUG parse_part from 12 to 16 (to 15 in part parser)
+02:57:58,467 parso.python.diff DEBUG -> code[replace] old[13:13] new[13:13]
+02:57:58,467 parso.python.diff DEBUG -> code[equal] old[14:16] new[14:16]
+02:57:58,467 parso.python.diff DEBUG diff parser end
+02:58:00,883 root ERROR Invalid alias: The name clear can't be aliased because it is another magic command.
+02:58:00,883 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
+02:58:00,883 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
+02:58:00,883 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.

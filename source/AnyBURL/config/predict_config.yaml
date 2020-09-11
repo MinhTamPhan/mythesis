@@ -1,0 +1,33 @@
+path_rules:
+  - learning_rules/FB15k/rule_1000.txt
+  - learning_rules/FB15k-237/rule_1000.txt
+  - learning_rules/WN18/rule_1000.txt
+  - learning_rules/WN18RR/rule_1000.txt
+  # - learning_rules/rule_10.txt
+  # - learning_rules/rule_50.txt
+  # - learning_rules/alpha-100
+  # - learning_rules/alpha-50
+path_training:
+  - ../../datasets/FB15k/freebase_mtr100_mte100-train.txt
+  - ../../datasets/FB15k-237/train.txt
+  - ../../datasets/WN18/train.txt
+  - ../../datasets/WN18RR/train.txt
+path_valid:
+  - ../../datasets/FB15k/freebase_mtr100_mte100-valid.txt
+  - ../../datasets/FB15k-237/valid.txt
+  - ../../datasets/WN18/valid.txt
+  - ../../datasets/WN18RR/valid.txt
+path_test:
+  - ../../datasets/FB15k/freebase_mtr100_mte100-test.txt
+  - ../../datasets/FB15k-237/test.txt
+  - ../../datasets/WN18/test.txt
+  - ../../datasets/WN18RR/test.txt
+path_rules_ext:
+  - learning_rules/FB15k/rule_extend_800.txt
+  - learning_rules/FB15k-237/rule_extend_800.txt
+  - learning_rules/WN18/rule_extend_800.txt
+  - learning_rules/WN18RR/rule_extend_800.txt
+unseen_nagative_examples: 5
+top_k_output: 10
+threshold_confidence_predictions: 2
+threshold_confidence: 0.00001

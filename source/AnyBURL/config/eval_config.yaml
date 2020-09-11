@@ -1,0 +1,33 @@
+path_training:
+  - ../../datasets/FB15k/freebase_mtr100_mte100-train.txt
+  - ../../datasets/FB15k-237/train.txt
+  - ../../datasets/WN18/train.txt
+  - ../../datasets/WN18RR/train.txt
+path_valid:
+  - ../../datasets/FB15k/freebase_mtr100_mte100-valid.txt
+  - ../../datasets/FB15k-237/valid.txt
+  - ../../datasets/WN18/valid.txt
+  - ../../datasets/WN18RR/valid.txt
+path_test:
+  - ../../datasets/FB15k/freebase_mtr100_mte100-test.txt
+  - ../../datasets/FB15k-237/test.txt
+  - ../../datasets/WN18/test.txt
+  - ../../datasets/WN18RR/test.txt
+unseen_nagative_examples: 5
+path_prediction_ext:
+  - predictions/FB15k/ext_predict_1000.txt
+  - predictions/FB15k-237/ext_predict_1000.txt
+  - predictions/WN18/ext_predict_1000.txt
+  - predictions/WN18RR/ext_predict_1000.txt
+# path_prediction: predictions/alpha-50
+path_prediction:
+  - predictions/FB15k/predict_1000.txt
+  - predictions/FB15k-237/predict_1000.txt
+  - predictions/WN18/predict_1000.txt
+  - predictions/WN18RR/predict_1000.txt
+path_eval_predict:
+  - predictions/FB15k/predict_valid_1000.txt
+  - predictions/FB15k-237/predict_valid_1000.txt
+  - predictions/WN18/predict_valid_1000.txt
+  - predictions/WN18RR/predict_valid_1000.txt
+# prediction/predict_100.txt
