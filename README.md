@@ -28,4 +28,11 @@ Contributor:
 | CGAT    | *     | *     | 36.06     | 58.32 | *     | *     | 35.12  | 57.01 |
 
 ## [source-anyburl](./source/README.md)
+* fully testing 4 data set [fully_testing.ipynb](./AnyBURL/fully_testing.ipynb)
+* learn with strategy offline-to-online adding knowledge into graph. [learning_extend_rule.ipynb](./AnyBURL/learning_extend_rule.ipynb)
+* strategy online-to-online adding knowledge into graph. [learning_extend_rule.ipynb](./AnyBURL/learning_with_edge.ipynb)
 ## [source-CGAT](./source/README.md)
+* [FB15k_237.ipynb](GCAT_FB15k_237.ipynb)
+* [GCAT_FB15k.ipynb](GCAT_FB15k.ipynb)
+* [GCAT_WN18.ipynb](GCAT_WN18.ipynb)
+* [GCAT_WN18RR.ipynb](GCAT_WN18RR.ipynb)
