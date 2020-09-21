@@ -21,7 +21,8 @@ path_prediction_ext:
   - predictions/WN18RR/ext_predict_1000.txt
 # path_prediction: predictions/alpha-50
 path_prediction:
-  - predictions/FB15k/predict_1000.txt
+  - predictions/FB15k/predict_600.txt
+  # - predictions/FB15k/predict_1000.txt
   - predictions/FB15k-237/predict_1000.txt
   - predictions/WN18/predict_1000.txt
   - predictions/WN18RR/predict_1000.txt

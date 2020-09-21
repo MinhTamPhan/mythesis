@@ -1,5 +1,6 @@
 path_rules:
   - learning_rules/FB15k/rule_1000.txt
+  # - learning_rules/FB15k/rule_600.txt
   - learning_rules/FB15k-237/rule_1000.txt
   - learning_rules/WN18/rule_1000.txt
   - learning_rules/WN18RR/rule_1000.txt

@@ -6231,3 +6231,21 @@ Tails[('/m/0564mx', 0.5398550724637681), ('/m/06gh0t', 0.36106737973347075), ('/
 16:20:40,893 root ERROR Invalid alias: The name more can't be aliased because it is another magic command.
 16:20:40,893 root ERROR Invalid alias: The name less can't be aliased because it is another magic command.
 16:20:40,893 root ERROR Invalid alias: The name man can't be aliased because it is another magic command.
+20:15:34,286 Learning INFO ****************************start new section*************************************
+20:15:34,286 Learning INFO initialize learning 1600262134287
+20:15:47,657 Learning INFO training with config {'path_training': '../../datasets/FB15k/freebase_mtr100_mte100-train.txt', 'snapshots_at': [200, 500, 600], 'saturation': 0.99, 'sample_size': 500, 'batch_time': 600, 'threshold_correct_predictions': 2, 'threshold_confidence': 1e-05, 'max_length_cylic': 3, 'max_length_acylic': 2, 'discrimination_bound': 1000, 'trial_size': 100000, 'dataset': 'FB15k'}
+20:15:47,657 Learning INFO indexing dataset: ../../datasets/FB15k/freebase_mtr100_mte100-train.txt
+20:15:47,657 Learning INFO time elapsed: 1 ms
+20:19:08,842 Learning INFO increasing rule size of CYCLIC rules to 2  after 201 s
+20:19:08,844 Learning INFO snapshot_rules: 2841 in file learning_rules/FB15k/rule_200.txt
+20:19:19,688 Learning INFO increasing rule size of CYCLIC rules to 3  after 212 s
+20:19:30,536 Learning INFO increasing rule size of CYCLIC rules to 4  after 222 s
+20:24:08,680 Learning INFO snapshot_rules: 8965 in file learning_rules/FB15k/rule_500.txt
+20:25:49,110 Learning INFO snapshot_rules: 11590 in file learning_rules/FB15k/rule_600.txt
+20:31:24,509 Predict INFO ****************************start new section*************************************
+20:31:24,510 Predict INFO initialize learning 1600263084510
+20:31:55,418 Predict INFO rules learning: learning_rules/FB15k/rule_600.txt
+20:31:55,419 Predict INFO output learning: predictions/FB15k/predict_600.txt
+20:34:30,896 RuleEngine INFO ****************************start new section*************************************
+20:34:30,896 RuleEngine INFO initialize rule engine 1600263270897
+20:49:02,467 Predict INFO finished in 1027 s.

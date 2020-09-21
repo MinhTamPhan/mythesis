@@ -9,7 +9,7 @@ snapshots_at:
   - 800
 saturation: 0.99
 sample_size: 500
-batch_time: 2000
+batch_time: 1000
 threshold_correct_predictions: 2
 threshold_confidence: 0.00001
 max_length_cylic: 3
